@@ -22,3 +22,15 @@ Run the following command
 'C:\Users\wibnu\OneDrive\Documents\GitHub\app_3_ud>venv\Scripts\activate'
 
 ------
+
+## Populating the environment
+Once you activate the environment use the requirments.txt to file to load the modules automatically without any hassle
+(venv) C:\Users\wibnu\OneDrive\Documents\GitHub\app_3_ud> pip install -r requirements.txt
+
+-------
+## How to run the script.
+Run the following command
+(venv) C:\Users\wibnu\OneDrive\Documents\GitHub\app_3_ud> py ratings_course_pie.py
+change the file name accordingly 
+
+-------
