@@ -8,3 +8,17 @@ The data contains reviews of the udemy courses. Using the data we create several
 | app3_avg_rat.py     | multiple linegraph |
 | app3_avg_rat_stream | stream graph       |
 | ratings_course_pie  | pie chart          |
+
+-----
+## Creating the environment [python 3.9.6]
+Go to the root folder of the repository
+Run the following command
+'C:\Users\wibnu\OneDrive\Documents\GitHub\app_3_ud>py -m venv venv'
+
+-----
+## Activating the environment
+Make sure you are in the rooot folder of the repository.
+Run the following command
+'C:\Users\wibnu\OneDrive\Documents\GitHub\app_3_ud>venv\Scripts\activate'
+
+------
